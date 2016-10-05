@@ -1,0 +1,126 @@
+nav > a{
+	color: white;
+	font-size: 16pX;
+	font-family: "Calibri Light";
+	padding: 5px;
+	text-decoration:none;
+}
+
+nav > a:hover{
+	color: gray;
+}
+
+header{
+	background-color: #0071BD;
+	color: white;
+	font-size: 20px;
+}
+
+#logo > h1{
+	color: #8CC602;
+	font-family: 'Calibri Light';
+
+}
+
+body{
+	padding: 10px;
+	background: #FFFFFF;
+	font-family: 'Calibri'
+}
+
+footer{
+	background-color: #0071BD;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	font-family: "Calibri Light";
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: both;
+
+}
+
+footer > a{
+	color: white;
+	text-decoration:none;
+}
+
+aside{
+	float: left;
+	width: 20%;
+
+}
+
+aside > a{
+	text-decoration:none;
+
+}
+
+aside > img{
+	border: 1px solid black;
+}
+
+article{
+	float: left;
+	width: 80%;
+}
+
+section{
+	float: left;
+	width: 80%;
+}
+
+form{
+	padding-bottom: 10px;
+}
+
+article > h4{
+	font-family: "Calibri Light";
+	color: #8CC602;
+}
+
+article > h3{
+	font-family: "Calibri Light";
+	color: #00ADEF;
+}
+
+section > h3{
+	font-family: "Calibri Light";
+	color: #00ADEF;
+}
+
+section > h4{
+	font-family: "Calibri Light";
+	color: #8CC602;
+}
+
+section > a{
+	text-decoration:none;
+}
+
+#linkContacto{
+	float: right;
+}
+
+@font-face{
+	font-family: 'Antonio';
+	src:('./fonts/Antonio-Regular.ttf');
+}
+
+video {
+	border: 1px solid black;
+	margin: 50px;
+	
+
+}
+
+.videos{
+	width: 50%;
+	float: left;
+
+}
+
+#videoPrincipal{
+	width: 100%;
+	padding-left: 15%;
+}
